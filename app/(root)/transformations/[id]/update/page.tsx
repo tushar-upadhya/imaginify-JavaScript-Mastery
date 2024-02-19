@@ -1,5 +1,5 @@
-const UpdateTransformationPage = () => {
-  return <div>UpdateTransformationPage</div>;
+const page = () => {
+  return <div>page</div>;
 };
 
-export default UpdateTransformationPage;
+export default page;

@@ -3,8 +3,8 @@ import { UserButton } from "@clerk/nextjs";
 const Home = () => {
   return (
     <div>
-      <p>home</p>
-      <UserButton afterSignOutUrl="/" />
+      {/* <p>home</p>
+      <UserButton afterSignOutUrl="/" /> */}
     </div>
   );
 };
